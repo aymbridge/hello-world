@@ -1,2 +1,6 @@
 # hello-world
-Mon premier 
+Mon premier README
+
+============
+Bientôt Spirit alpha disponible pour le monde
+
